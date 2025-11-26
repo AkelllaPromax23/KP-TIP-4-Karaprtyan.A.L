@@ -42,3 +42,11 @@ CSS для стилизации
 Скриншоты работающего приложения: <img width="1920" height="1080" alt="2025-11-26_18-46-33" src="https://github.com/user-attachments/assets/c6dc6e77-4260-46b4-b9b0-aa3818f92e37" />
 <img width="1920" height="1080" alt="2025-11-26_18-46-42" src="https://github.com/user-attachments/assets/fcbda978-bb5e-4cbe-86d7-6845db91789c" />
 <img width="1920" height="1080" alt="2025-11-26_18-47-14" src="https://github.com/user-attachments/assets/add91201-3ceb-4caf-a356-4cd333219da0" />
+
+
+
+
+
+
+
+После этого просто запусти `npm run dev` и приложение заработает! 🎬
